@@ -11,6 +11,9 @@ export default {
         VeryLightGrayishCyan: 'hsl(189, 41%, 97%)',
         white: 'hsl(0, 0%, 100%)',
       },
+      fontFamily: {
+        spaceMono: ['"Space Mono", monospace;'],
+      },
     },
   },
   plugins: [],
