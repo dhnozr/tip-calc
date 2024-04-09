@@ -4,8 +4,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: 'hsl(183, 100%, 15%)',
-        VeryDarkCyan: 'hsl(186, 14%, 43%)',
+        primary: 'hsl(172, 67%, 45%)',
+        DarkGrayishCyan: 'hsl(186, 14%, 43%)',
+        VeryDarkCyan: 'hsl(183, 100%, 15%)',
         GrayishCyan: 'hsl(184, 14%, 56%)',
         LightGrayishCyan: 'hsl(185, 41%, 84%)',
         VeryLightGrayishCyan: 'hsl(189, 41%, 97%)',
