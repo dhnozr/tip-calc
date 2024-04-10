@@ -14,7 +14,7 @@ const BillSplitter = () => {
   const totalPerPerson = Number((billInput / people + tipAmount).toFixed(2));
 
   return (
-    <div className='max-w-2xl w-full bg-white min-h-96 p-4 grid grid-cols-2  gap-8 justify-items-center'>
+    <div className='max-w-2xl w-full bg-white min-h-96 p-4 grid grid-cols-2  gap-8 justify-items-center rounded-xl'>
       <div className='flex flex-col justify-between py-6'>
         <BillInput billInput={billInput} setBillInput={setBillInput} />
         <SelectTip setPercentage={setPercentage} />
