@@ -5,8 +5,8 @@ const SelectTip = ({ setPercentage }) => {
     setPercentage(Number(e.target.value));
   };
   return (
-    <div>
-      <h2>Select Tip %</h2>
+    <div className='grid gap-2'>
+      <h2 className='text-DarkGrayishCyan'>Select Tip %</h2>
       <div className='grid grid-cols-3 gap-4 max-w-96'>
         <button onClick={handleSelectTip} value={5} className='bg-VeryDarkCyan text-white hover:bg-primary'>
           5%
