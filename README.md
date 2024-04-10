@@ -1,4 +1,5 @@
 # Bill Splitter
+![desktop-design-completed](https://github.com/dhnozr/tip-calc/assets/115792609/2beaadb7-7365-4e37-acb6-56aa9be46402)
 
 Bill Splitter designed to easily calculate the bill amount, tip, and total per person for a shared meal experience. Users can input the total bill amount, select a tip percentage, and specify the number of people to instantly see the tip amount per person and the total amount each person owes.
 
